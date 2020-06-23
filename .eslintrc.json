@@ -33,7 +33,10 @@
   },
   "settings": {
     "import/resolver": {
-      "babel-plugin-root-import": { "rootPathSuffix": "src" }
+      "babel-plugin-root-import": { "rootPathSuffix": "src" },
+      "node": {
+        "extensions": [".js", ".jsx", ".json", ".native.js"]
+      }
     }
   }
 }
