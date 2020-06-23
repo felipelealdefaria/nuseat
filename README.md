@@ -1,6 +1,8 @@
 # Nubank Clone - (Rocketseat :rocket:)
 
-![Simulator Screen Shot - iPhone SE (2nd generation) - 2020-06-23 at 09 42 19](https://user-images.githubusercontent.com/64376829/85405063-3c22da80-b536-11ea-915f-7fb0156eedb0.png) ![WhatsApp-Video-2020-06-23-at-09 46 09](https://user-images.githubusercontent.com/64376829/85405527-ec90de80-b536-11ea-9a69-ac3c6d303fa5.gif)
+Home Page                  |  Nubank Gif               |  Profile Page
+:-------------------------:|:-------------------------:|:-------------------------:
+![Simulator Screen Shot - iPhone SE (2nd generation) - 2020-06-23 at 09 42 19](https://user-images.githubusercontent.com/64376829/85405063-3c22da80-b536-11ea-915f-7fb0156eedb0.png)  |  ![WhatsApp-Video-2020-06-23-at-09 46 09](https://user-images.githubusercontent.com/64376829/85405527-ec90de80-b536-11ea-9a69-ac3c6d303fa5.gif)  |  ![Simulator Screen Shot - iPhone SE (2nd generation) - 2020-06-23 at 09 42 29](https://user-images.githubusercontent.com/64376829/85405074-4218bb80-b536-11ea-8bec-9c4af58f5769.png)
 
 ----
 ## About
